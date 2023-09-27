@@ -1,0 +1,23 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "ALX Back end project specialization",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kinyua/alx-backend-javascript.git"
+  },
+  "author": "Kevin-Kinyua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kinyua/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kinyua/alx-backend-javascript#readme"
+}

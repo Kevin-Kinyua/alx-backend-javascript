@@ -6,7 +6,9 @@
   "dependencies": {
     "jest": "^29.7.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.23.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

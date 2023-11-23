@@ -9,7 +9,7 @@
     "test": "mocha",
     "dev": "nodemon --exec babel-node --presets babel-preset-env ./server.js ./database.csv"
   },
-  "author": "",
+  "author": "Kevin-Kinyua",
   "license": "ISC",
   "dependencies": {
     "chai-http": "^4.3.0",
